@@ -19,11 +19,8 @@
 
 using namespace std;
 
-/* From here... */
 int pNum;
 vector<Point> p;
-
-/* To here, IDK whats happening */
 
 vector<Point> bruteForce(vector<Point> p) {
     int psize = p.size();
